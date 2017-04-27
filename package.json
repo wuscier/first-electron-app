@@ -1,0 +1,24 @@
+{
+  "name": "first_electron_app",
+  "version": "1.0.0",
+  "description": "develop my first electron app.",
+  "main": "index.js",
+  "scripts": {
+	"start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuscier/first-electron-app.git"
+  },
+  "keywords": [
+    "desktop",
+    "app",
+    "electron"
+  ],
+  "author": "wuxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuscier/first-electron-app/issues"
+  },
+  "homepage": "https://github.com/wuscier/first-electron-app#readme"
+}
